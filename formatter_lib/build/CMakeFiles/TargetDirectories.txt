@@ -1,3 +1,0 @@
-/home/timon/Desktop/Previshaet/workspace/Homework/lab03/formatter_lib/build/CMakeFiles/rebuild_cache.dir
-/home/timon/Desktop/Previshaet/workspace/Homework/lab03/formatter_lib/build/CMakeFiles/edit_cache.dir
-/home/timon/Desktop/Previshaet/workspace/Homework/lab03/formatter_lib/build/CMakeFiles/formatter_lib.dir
