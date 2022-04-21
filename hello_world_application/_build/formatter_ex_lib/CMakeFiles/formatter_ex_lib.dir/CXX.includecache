@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/timon/Desktop/Previshaet/workspace/Homework/lab03/formatter_ex_lib/formatter_ex.cpp
+formatter_ex.h
+/home/timon/Desktop/Previshaet/workspace/Homework/lab03/formatter_ex_lib/formatter_ex.h
+formatter.h
+/home/timon/Desktop/Previshaet/workspace/Homework/lab03/formatter_ex_lib/formatter.h
+
+/home/timon/Desktop/Previshaet/workspace/Homework/lab03/formatter_ex_lib/formatter_ex.h
+string
+-
+iostream
+-
+
+/home/timon/Desktop/Previshaet/workspace/Homework/lab03/formatter_lib/formatter.h
+string
+-
+
