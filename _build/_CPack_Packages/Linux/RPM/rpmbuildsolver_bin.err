@@ -1,0 +1,12 @@
++ umask 022
++ cd /home/timon/Desktop/Previshaet/workspace/Homework/lab06/_build/_CPack_Packages/Linux/RPM/BUILD
++ mv /home/timon/Desktop/Previshaet/workspace/Homework/lab06/_build/_CPack_Packages/Linux/RPM/solver_cpp-0.1.0.0-Linux /home/timon/Desktop/Previshaet/workspace/Homework/lab06/_build/_CPack_Packages/Linux/RPM/tmpBBroot
++ exit 0
++ umask 022
++ cd /home/timon/Desktop/Previshaet/workspace/Homework/lab06/_build/_CPack_Packages/Linux/RPM/BUILD
++ [ -e /home/timon/Desktop/Previshaet/workspace/Homework/lab06/_build/_CPack_Packages/Linux/RPM/solver_cpp-0.1.0.0-Linux ]
++ mv /home/timon/Desktop/Previshaet/workspace/Homework/lab06/_build/_CPack_Packages/Linux/RPM/tmpBBroot /home/timon/Desktop/Previshaet/workspace/Homework/lab06/_build/_CPack_Packages/Linux/RPM/solver_cpp-0.1.0.0-Linux
++ exit 0
++ umask 022
++ cd /home/timon/Desktop/Previshaet/workspace/Homework/lab06/_build/_CPack_Packages/Linux/RPM/BUILD
++ exit 0

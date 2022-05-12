@@ -1,8 +1,8 @@
 Architecture: all
 Description: static C++ library for solver
- tut solver jou
+ tut_solver_jou
 Maintainer: Previshaet
-Package: solver bin
+Package: solver_bin
 Priority: optional
 Section: devel
 Version: 1.1.0.0-1
